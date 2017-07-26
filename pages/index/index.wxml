@@ -1,0 +1,4 @@
+
+<view class="container">
+  <button type="default" bindtap="templateView">打开模板页面</button>
+</view>
